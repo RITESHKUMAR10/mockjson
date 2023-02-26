@@ -1,0 +1,22 @@
+{
+  dummyData:[
+  { id: 0, parentId: null, name: 'ritesh', slug: 'Male', description: 'New York',  },
+    { id: 1, parentId: null, name: 'rites Smith', slug: 'Female', description: 'Los Angeles', },
+    { id: 2, parentId: null, name: 'ritesh Johnson', slug: 'Male', description: 'Chicago',  },
+    { id: 3, parentId: 0, name: 'rit Davis', slug: 'Female', description: 'Houston',  },
+    { id: 4, parentId: 0, name: 'sddfv Lee', slug: 'Male', description: 'Phoenix', },
+    { id: 5, parentId: 1, name: 'dfvfdbd Brown', slug: 'Female', description: 'Philadelphia',  },
+    { id: 6, parentId: 2, name: 'dvdfvf Wilson', slug: 'Male', description: 'San Antonio', },
+    { id: 7, parentId: 2, name: 'dvfv Jackson', slug: 'Female', description: 'San Diego',  },
+    { id: 8, parentId: 2, name: 'fdvf Martin', slug: 'Male', description: 'Dallas',  },
+    { id: 9, parentId: 3, name: 'Mavcxv ry Wilson', slug: 'Female', description: 'San Jose', },
+    { id: 10, parentId: 3, name: 'vcv Thompson', slug: 'Male', description: 'Austin',  },
+    { id: 11, parentId: 4, name: 'vvz Taylor', slug: 'Female', description: 'Fort Worth', },
+    { id: 12, parentId: 4, name: 'Mikxcscsse Davis', slug: 'Male', description: 'Charlotte',  },
+    { id: 13, parentId: 5, name: 'qqqqq Brown', slug: 'Female', description: 'Seattle',  },
+    { id: 14, parentId: 6, name: 'wwww Mitchell', slug: 'Male', description: 'Denver', },
+    { id: 15, parentId: 7, name: 'qwer Wilson', slug: 'Female', description: 'Washington', },
+    { id: 16, parentId: 8, name: 'sswsws Johnson', slug: 'Male', description: 'Boston',  },
+    { id: 17, parentId: 8, name: 'dessc Martinez', slug: 'Female', description: 'Miami', },
+]
+}
