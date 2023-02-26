@@ -11,7 +11,7 @@
     { "id": 8, "parentId": 2, "name": "fdvf Martin", "slug": "Male", "description": "Dallas"},
     { "id": 9, "parentId": 3, "name": "Mavcxv ry Wilson", "slug": "Female", "description": "San Jose"},
     { "id": 10, "parentId": 3, "name": "vcv Thompson", "slug": "Male", "description": "Austin"},
-    { "id": 11, "parentId": 4, "name": "vvz Taylor", "slug": "Female", "description": "Fort Worth", },
+    { "id": 11, "parentId": 4, "name": "vvz Taylor", "slug": "Female", "description": "Fort Worth"},
     { "id": 12, "parentId": 4, "name": "Mikxcscsse Davis", "slug": "Male", "description": "Charlotte"},
     { "id": 13, "parentId": 5, "name": "qqqqq Brown", "slug": "Female", "description": "Seattle"},
     { "id": 14, "parentId": 6, "name": "wwww Mitchell", "slug": "Male", "description": "Denver"},
